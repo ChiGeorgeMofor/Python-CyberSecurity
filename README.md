@@ -3,7 +3,7 @@
 <h2>🔥 About the Repository</h2>
 <p>This repository is a comprehensive collection of projects, scripts, and best practices as I master <strong>advanced Python programming</strong>. It covers <strong>cybersecurity, software development, automation, and high-performance computing.</strong></p>
 
-<h2>🚀 Key Focus Areas:</h2>
+<h2>🚀 Key Focus Areas:</h2> 
 <ul>
     <li>✅ <strong>Secure Coding & Cybersecurity</strong> – Writing exploit-resistant and scalable applications.</li>
     <li>✅ <strong>Data Structures & Algorithms</strong> – Optimizing performance and solving complex problems.</li>
